@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    border:2px solid black;
+    height: 640px;
+    width:700px;
+    margin-left: 300px;
+}
+.header{
+   background-color: green;
+   color: white;
+   height:45px;
+   width: 100%;
+   margin-top: 15px;
+}
+table{
+    margin-top: 20px;
+    margin-left:30px;
+}
+table tr,td{
+    padding-left: 30px;
+}
+input{
+    float: right;
+    padding-left: 90px
+}
+form{
+    font-size: 20px;
+}
